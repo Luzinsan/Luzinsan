@@ -64,15 +64,16 @@
 ## 📊 GitHub-статистика
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Luzinsan&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luzinsan&layout=compact&theme=midnight-purple" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Luzinsan&color=blue" alt="Visitor Count" />
-  &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luzinsan&theme=midnight-purple" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Luzinsan&color=blue" alt="Visitor Count" />
+</p>
+
 
 ---
 
